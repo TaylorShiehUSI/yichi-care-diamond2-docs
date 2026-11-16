@@ -12,8 +12,9 @@
 ## 文件順序
 
 1. [PRD 摘要](diamond2/prd-summary.md) → [現行規格](diamond2/spec.md) → [工作分解](diamond2/wbs.md)
-2. [方案演進與決策](diamond2/decisions.md)
-3. [系統架構](architecture/system.md)與[資訊流](architecture/information-flow.md)
-4. [驗收摘要與證據索引](acceptance/acceptance.md)
+2. [專案管理備查](diamond2/project-management.md)（人力、預算、風險與時程）
+3. [方案演進與決策](diamond2/decisions.md)
+4. [系統架構](architecture/system.md)與[資訊流](architecture/information-flow.md)
+5. [驗收摘要與證據索引](acceptance/acceptance.md)
 
 網站與擴充功能的發布由原專案管理。試用需使用同一 Chrome 設定檔與可存取指定 NotebookLM 筆記本的 Google 帳號。
